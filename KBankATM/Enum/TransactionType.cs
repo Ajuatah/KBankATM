@@ -8,6 +8,7 @@ namespace KBankATM.Enum
 {
     public enum TransactionType
     {
-        Withdrawal
+        Withdrawal,
+        Deposit
     }
 }
